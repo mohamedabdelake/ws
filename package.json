@@ -5,16 +5,16 @@
   "license": "MIT",
   "author": {
     "name": "𝑩𝒐𝒕",
-    "url": "https://github.com/yourusername/ws"
+    "url": "https://github.com/mohamedabdelake/ws"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ws.git"
+    "url": "git+https://github.com/mohamedabdelake/ws.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ws/issues"
+    "url": "https://github.com/mohamedabdelake/ws/issues"
   },
-  "homepage": "https://github.com/yourusername/ws#readme",
+  "homepage": "https://github.com/mohamedabdelake/ws#readme",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
